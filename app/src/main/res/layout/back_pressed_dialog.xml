@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@drawable/category_backgr"
+    >
+    <TextView
+        android:gravity="center"
+        android:textColor="@color/button_col_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:typeface="sans"
+        android:text="@string/pause_dialog_text"/>
+    <LinearLayout
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp">
+        <Button
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:id="@+id/pause_yes"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/yes_text"
+            android:background="@drawable/menu_button_lay"/>
+        <Button
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:id="@+id/pause_no"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/no_text"
+            android:background="@drawable/menu_button_lay"/>
+
+    </LinearLayout>
+</LinearLayout>

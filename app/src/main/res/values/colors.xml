@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0a2088</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#fdb23c</color>
+    <color name="colorActionBar">#fdb23c</color>
+    <color name="text_qcolor">#f5f6f7</color>
+    <color name="q_title">#9bedff</color>
+    <color name="button_col">#f9cf2a</color>
+    <color name="gray">#7e7e7e</color>
+    <color name="light_gray">#cecece</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+    <color name="button_col_2">#ffc925</color>
+    <color name="cat_back">#fdb23c</color>
+    <color name="cor_green">#3b9938</color>
+    <color name="burgundy">#900020</color>
+    <color name="blue">#0a2088</color>
+    <color name="red">#FFF44336</color>
+    <color name="category_background_blue">#0a2088</color>
+
+    <!-- Screens background color-->
+
+    <color name="bg_screen3">#3395ff</color>
+</resources>

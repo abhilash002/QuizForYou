@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+                <!-- Customize your theme here. -->
+                <item name="colorPrimary">@color/colorPrimary</item>
+                <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+                <item name="colorAccent">@color/colorAccent</item>
+                <item name="android:fontFamily">sans-serif-smallcaps</item>
+        </style>
+        <style name="SpinnerStyle" parent="AppTheme">
+                <item name="android:textColor">@color/button_col_2</item>
+                <item name="android:textStyle">bold</item>
+        </style>
+</resources>

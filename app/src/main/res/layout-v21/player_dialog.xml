@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/user_input_dialog">
+    <Button
+        android:id="@+id/close"
+        android:layout_alignParentEnd="true"
+        android:layout_width="20dp"
+        android:background="@drawable/close_icon"
+        android:layout_height="20dp" />
+    <EditText
+        android:textColorHint="@color/gray"
+        android:textColor="@color/black"
+        android:id="@+id/playername"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/player_name"/>
+    <Button
+        android:layout_below="@+id/playername"
+        android:textColor="@color/black"
+        android:id="@+id/submit"
+        android:elevation="4dp"
+        android:background="@drawable/menu_button_lay"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"/>
+    <TextView
+        android:layout_below="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/or"
+        android:id="@+id/or"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:gravity="center"/>
+    <Button
+        android:layout_below="@+id/or"
+        android:id="@+id/guest_play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menu_button_lay"
+        android:padding="15dp"
+        android:text="@string/play_g"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

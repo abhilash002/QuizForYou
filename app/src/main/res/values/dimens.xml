@@ -1,0 +1,23 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- Category Dimensions Used -->
+
+    <dimen name="category_main_layout_margin">5dp</dimen>
+    <dimen name="category_title">20sp</dimen>
+    <dimen name="category_height">110dp</dimen>
+    <dimen name="category_score">15sp</dimen>
+    <dimen name="category_button_elevation">4dp</dimen>
+    <dimen name="category_button_margin_">5dp</dimen>
+    <dimen name="category_progressbar_height">20dp</dimen>
+    <dimen name="category_progressbar_padding_right">15dp</dimen>
+    <dimen name="category_image_height_">@dimen/category_height</dimen>
+    <dimen name="category_image_padding_">20dp</dimen>
+    <dimen name="category_rightside_marginLeft">15dp</dimen>
+
+    <!-- Category Dimensions Used -->
+
+</resources>

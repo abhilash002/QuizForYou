@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/title_make_purchase_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You have already used all of your chances to SKIP questions. Please buy to get some."
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:padding="10dp"
+        android:typeface="sans"
+        />
+    <Button
+        android:id="@+id/ok_button_mpd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Buy Me Some"
+        android:background="@drawable/menu_button_lay"/>
+
+</LinearLayout>

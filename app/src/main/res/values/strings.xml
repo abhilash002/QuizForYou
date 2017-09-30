@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quiz For You</string>
+    <string name="splash_str">Splash screen text string</string>
+    <string name="cat_science">Science</string>
+    <string name="cat_geo">Geography</string>
+    <string name="cat_ran">Random</string>
+    <string name="cat_his">History</string>
+    <string name="cat_math">Math</string>
+    <string name="cat_sport">Sports</string>
+    <string name="sharedKey">QUIZSCORE</string>
+    <string name="Key">prefkey</string>
+    <string name="exit_message">Are you sure?</string>
+    <string name="Banner_id_bottom">ca-app-pub-7884606832219695/9943376168</string>
+    <string name="banner_bottom_main_act">ca-app-pub-7884606832219695/3081087364</string>
+    <string name="banner_inter_ad_1">ca-app-pub-7884606832219695/5408771760</string>
+    <string name="banner_inter_result">ca-app-pub-7884606832219695/1008924961</string>
+    <string name="banner_bottom_result">ca-app-pub-7884606832219695/9562782962</string>
+    <string name="video_ad">ca-app-pub-7884606832219695/5519202962</string>
+    <string name="native_ad">ca-app-pub-7884606832219695/4145044569</string>
+    <string name="pause_dialog_text">Do you want to leave the game?</string>
+    <string name="TestDeviceId">7CFA348BADB0C13B155686353D812F59</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="play_g">Play as Guest</string>
+    <string name="or">OR</string>
+    <string name="submit">Submit</string>
+    <string name="player_name">Player name</string>
+
+    <string name="sign_in_other_error">There was an issue with sign-in, please try again later.</string>
+    <string name="sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="license_failed">License check failed.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="Achievement_1_">CgkI0tPm6OcOEAIQAw</string>
+    <string name="Achievement_2">CgkI0tPm6OcOEAIQBA</string>
+    <string name="Achievement_3">CgkI0tPm6OcOEAIQBQ</string>
+    <string name="string_prize_won_line">You have Won</string>
+    <string name="string_try_again">Better try again!</string>
+</resources>
